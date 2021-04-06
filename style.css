@@ -131,22 +131,22 @@ button {
   align-items: center;
 }
 
-li > * {
+.section__tasks__save > * {
   vertical-align: middle;
 }
 
-li > input[type="checkbox"] {
+.section__tasks__save__checkbox {
   margin: 0 10px;
 }
 
-li > label {
+.section__tasks__save__label {
   padding-left: 10px;
   box-sizing: border-box;
   font-size: 18px;
   width: 226px;
 }
 
-li > input[type="text"] {
+.section__tasks__save__input {
   width: 226px;
 }
 
