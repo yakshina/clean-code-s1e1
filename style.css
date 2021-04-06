@@ -34,8 +34,8 @@
   margin: 0 auto 0;
 }
 
-.section__tasks__save__input,
 .add-el__wrapper__input,
+.section__tasks__save__input,
 .section__tasks__save__label {
   width: 56%;
   display: inline-block;
@@ -90,8 +90,8 @@ button {
   text-transform: uppercase;
 }
 
-.section__tasks__save__input,
-.add-el__wrapper__input {
+.add-el__wrapper__input,
+.section__tasks__save__input {
   margin: 0;
   font-size: 18px;
   line-height: 18px;
